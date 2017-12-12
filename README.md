@@ -1,5 +1,7 @@
 # ArduWar
 
-ArduWar is a WoW Pixel Reading Rotation Bot using AutoIt or an Arduino to simulate the Keyboard Clicks.
+ArduWar is a WoW Pixel Reading Rotation Bot using AutoIt or an Arduino to simulate the Keyboard Clicks written in Java.
 
 # Setup:
+
+## AutoIt
