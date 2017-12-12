@@ -35,6 +35,6 @@ First of all, you need a Rotation Addon like TellMeWhen or AethysRotation (what 
 8. Press F4 or "Start Arduino" to start and F5 or "Stop" to stop.
 
 
-Keep in Mind this is a private Project of me. It is not easy to understand or to configurate and is containts most likely many bugs. ;)
+Keep in Mind this is a private Project of me. It is not easy to understand or to configure and it contains most likely many bugs. :)
 
 
