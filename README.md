@@ -4,12 +4,37 @@ ArduWar is a WoW Pixel Reading Rotation Bot using AutoIt or an Arduino to simula
 
 # Setup:
 
-First of all, you need a Rotation Addon like TellMeWhen or AethysRotation (what I recommend).
+First of all, you need a Rotation Addon like TellMeWhen or AethysRotation (what I recommend). For the ArduinoBot you will need a Arduino Leonardo!
 
 ## AutoIt
 
 1. Start ArduWar.jar 
-2. with F3 you can navigate to the Rotation Addon
+2. Navigate to the Rotation Addon, best Position is on the Red Dot.
 
 <a href="http://www.directupload.net" target="_blank"><img src="http://fs1.directupload.net/images/171212/d4h5h7se.png" title="Kostenlos Bilder und Fotos hochladen"></a>
+
+3. Press F3 to Save the Addon Position
+4. Now cast the Rotation on a Target Dummy, if you get a new Spell press F2 to add the Skill to the Skill Window.
+5. You can add up to 10 Skill. If you add less, add some random color. (atm you need 10, will be fixed in the future)
+6. Select a Profile and Press "Save"
+7. Press "Start AutoIt" to start the AutoIt Bot and "Stop" to stop it. The Programm will send the Inputs to the most forward Window (Most likely WoW)
+
+## AutoIt
+
+1. Start ArduWar.jar 
+2. Navigate to the Rotation Addon, best Position is on the Red Dot.
+
+<a href="http://www.directupload.net" target="_blank"><img src="http://fs1.directupload.net/images/171212/d4h5h7se.png" title="Kostenlos Bilder und Fotos hochladen"></a>
+
+3. Press F3 to Save the Addon Position
+4. Now cast the Rotation on a Target Dummy, if you get a new Spell press F2 to add the Skill to the Skill Window.
+5. You can add up to 10 Skill. If you add less, add some random color. (atm you need 10, will be fixed in the future)
+6. Select a Profile and Press "Save"
+7. Connect you Arduino Leonardo and upload the Code (https://github.com/Stepoura/ArduWarArduino)
+8. Select the Port (COM1, COM2, etc) where the Arduino is connected
+8. Press F4 or "Start Arduino" to start and F5 or "Stop" to stop.
+
+
+Keep in Mind this is a private Project of me. It is not easy to understand or to configurate and is containts most likely many bugs. ;)
+
 
