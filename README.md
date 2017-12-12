@@ -15,7 +15,7 @@ First of all, you need a Rotation Addon like TellMeWhen or AethysRotation (what 
 
 3. Press F3 to Save the Addon Position
 4. Now cast the Rotation on a Target Dummy, if you get a new Spell press F2 to add the Skill to the Skill Window.
-5. You can add up to 10 Skill. If you add less, add some random color. (atm you need 10, will be fixed in the future)
+5. You can add up to 10 Skill. If you use less, add some random color. (atm you need 10, will be fixed in the future)
 6. Select a Profile and Press "Save"
 7. Press "Start AutoIt" to start the AutoIt Bot and "Stop" to stop it. The Programm will send the Inputs to the most forward Window (Most likely WoW)
 
@@ -28,7 +28,7 @@ First of all, you need a Rotation Addon like TellMeWhen or AethysRotation (what 
 
 3. Press F3 to Save the Addon Position
 4. Now cast the Rotation on a Target Dummy, if you get a new Spell press F2 to add the Skill to the Skill Window.
-5. You can add up to 10 Skill. If you add less, add some random color. (atm you need 10, will be fixed in the future)
+5. You can add up to 10 Skill. If you use less, add some random color. (atm you need 10, will be fixed in the future)
 6. Select a Profile and Press "Save"
 7. Connect you Arduino Leonardo and upload the Code (https://github.com/Stepoura/ArduWarArduino)
 8. Select the Port (COM1, COM2, etc) where the Arduino is connected
