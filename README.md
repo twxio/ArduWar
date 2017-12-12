@@ -10,5 +10,6 @@ First of all, you need a Rotation Addon like TellMeWhen or AethysRotation (what 
 
 1. Start ArduWar.jar 
 2. with F3 you can navigate to the Rotation Addon
+
 <a href="http://www.directupload.net" target="_blank"><img src="http://fs1.directupload.net/images/171212/d4h5h7se.png" title="Kostenlos Bilder und Fotos hochladen"></a>
 
