@@ -19,7 +19,7 @@ First of all, you need a Rotation Addon like TellMeWhen or AethysRotation (what 
 6. Select a Profile and Press "Save"
 7. Press "Start AutoIt" to start the AutoIt Bot and "Stop" to stop it. The Programm will send the Inputs to the most forward Window (Most likely WoW)
 
-## AutoIt
+## Arduino
 
 1. Start ArduWar.jar 
 2. Navigate to the Rotation Addon, best Position is on the Red Dot.
